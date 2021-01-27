@@ -258,7 +258,7 @@
 	
 	<div id="menu_top">
 		<ul>
-			<li><a href="index.php" class="button">Homeme</a></li>
+			<li><a href="index.php" class="button">Homememe</a></li>
 			<li><a href="tintuc.php" class="button">News</a></li>
 			<li><a href="product.php" class="button">Product</a></li>
 			<li><a href="baohanh.php" class="button">Repairs and Coverage</a></li>
